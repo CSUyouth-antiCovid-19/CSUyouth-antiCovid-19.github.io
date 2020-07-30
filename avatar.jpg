@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<!--
+	Visualize by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Visualize by TEMPLATED</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" type="text/css" href="//at.alicdn.com/t/font_1954782_9s11aadtp4f.css">
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+						<h1>中南大学"青春战疫，健康同行"线上健康防疫宣讲团</h1>
+						<ul class="icons">
+							<li><a href="https://weixin.qq.com/r/gS_utqjEF-VorezV93qT" class="iconfont icon-wechat"><span class="label">微信公众号</span></a></li>
+							<li><a href="https://qm.qq.com/cgi-bin/qm/qr?k=TC_yr5o6KU7kKLZppnmjNSEIC1kMYRgt&noverify=0" class="iconfont icon-qq"><span class="label">QQ</span></a></li>
+							<li><a href="https://weibo.com/u/7482603834" class="iconfont icon-weibo"><span class="label">微博</span></a></li>
+							<li><a href="https://space.bilibili.com/485668069" class="iconfont icon-bilibili-fill"><span class="label">哔哩哔哩</span></a></li>
+							<li><a href="https://www.wjx.cn/jq/84836903.aspx" class = "iconfont icon-wenjuan"><span class="label">问卷调查</span></a></li>
+						</ul>
+					</header>
+
+
+
+				<!-- Main -->
+					<section id="main">
+
+
+						<!-- Thumbnails -->
+							<section class="thumbnails">
+								<div>
+									<a href="images/fulls/bilibli.jpg">
+										<img src="images/thumbs/bilibli.jpg" alt="" />
+										<h3>Bilibili 官方账号</h3>
+									</a>
+									<a href="images/fulls/qq.jpeg">
+										<img src="images/thumbs/qq.jpeg" alt="" />
+										<h3 >QQ 官方账号</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/questionnaire.png">
+										<img src="images/thumbs/questionnaire.png" alt="" />
+										<h3>关于防疫知识了解情况的调查问卷</h3>
+									</a>
+									<a href="images/fulls/h5.png">
+										<img src="images/thumbs/h5.png" alt="" />
+										<h3>H5 界面</h3>
+									</a>
+								</div>
+								<div>
+									<a href="images/fulls/三下乡.jpg">
+										<img src="images/thumbs/三下乡.jpg" alt="" />
+										<h3>Lorem ipsum dolor sit amet</h3>
+									</a>
+									<a href="images/fulls/07.jpg">
+										<img src="images/thumbs/07.jpg" alt="" />
+										<h3>Lorem ipsum dolor sit amet</h3>
+									</a>
+								</div>
+							</section>
+
+					</section>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script type="assets/js/" src="canvas-nest.min.js"></script>
+			<script src="assets/js/canvas-nest.js"></script>
+	</body>
+</html>
